@@ -13,7 +13,7 @@
 - _Typescript_
 - _React-hook-form_
 - _Styled-components_
-- _SweetAlert2 for pretty alert_
+- _"SweetAlert2" for pretty alert_
 
 # Author
 
