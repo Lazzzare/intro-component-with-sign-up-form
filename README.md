@@ -1,4 +1,4 @@
-![sign-up-form](src/Assets/background.png)
+
 
 # Links
 
